@@ -2,5 +2,5 @@
 ====================
 
 Hi, all:
-This is my first editing on git.
-test test test!
+This is my second editing on git.
+thank you.
